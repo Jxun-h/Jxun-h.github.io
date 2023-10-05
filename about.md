@@ -1,8 +1,5 @@
 ---
-layout: post
 title: About
+layout: about-me
+permalink: /about/
 ---
-
-This is an example page!
-
-Actually, it has the same layout of a post...
