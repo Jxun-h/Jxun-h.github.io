@@ -27,9 +27,9 @@ urls:
 author_logo: profile.png
 author: Jxun-h
 author_bio: Hi, my name is Jxun-h. Backend Developer. :D
-author_email: "gudwns5220@gmail.com" >- "Gmail"
+author_email: "gudwns5220@gmail.com"
 author_location: Korea
-author_website_url: "https://dreamtreeits.tistory.com" >- "Tistory Blog"
+author_website_url: "https://dreamtreeits.tistory.com"
 typewrite-text: 안녕하세요. 저는 백엔드 개발자 Jxun-h 입니다. 반갑습니다 :)
 hero_cover_img: background.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
